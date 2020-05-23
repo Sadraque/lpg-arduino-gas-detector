@@ -1,5 +1,7 @@
 # LPG_gasDetector
 <h3>Prototype of a LPG gas detector</h3>
+<br>
+![alt text](https://github.com/Sadraque/LPG_gasDetector/blob/master/DEVICE.png)
 
 Prototype of the discipline Integrated Projects (Project Management) for the Computer Engineering and Electrical Engineering course at Centro Universitário UNA, Belo Horizonte - MG, Brazil.<br>
 <b>AUTHORS:</b> Sadraque Nunes, Marco Rodrigues, Patrick Lima, André Coelho, Bruno Morais and Jean Vidigal.<br>
