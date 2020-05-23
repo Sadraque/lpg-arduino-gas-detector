@@ -1,8 +1,8 @@
 # LPG_gasDetector
 <h3>Prototype of a LPG gas detector</h3>
 
-Prototype of the discipline Integrated Projects (Project Management) for the Computer Engineering and Electrical Engineering course at Centro Universitário UNA, Belo Horizonte - MG, Brazil.
-<b>AUTHORS:</b> Sadraque Nunes, Marco Rodrigues, Patrick Lima, André Coelho, Bruno Morais and Jean Vidigal.
+Prototype of the discipline Integrated Projects (Project Management) for the Computer Engineering and Electrical Engineering course at Centro Universitário UNA, Belo Horizonte - MG, Brazil.<br>
+<b>AUTHORS:</b> Sadraque Nunes, Marco Rodrigues, Patrick Lima, André Coelho, Bruno Morais and Jean Vidigal.<br>
 <b>PROFESSOR:</b> Elson de Abreu
 
 <p>This device was design for residential uses. It uses the Arduino UNO and MQ-5 sensor to find the gas presence.</p>
