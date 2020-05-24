@@ -19,18 +19,18 @@ The device needs to be near the gas canister and the sensor input area must be f
 The device contains 2 inputs, one output, five LED's and sound alarm:
 
 <h6>INPUTS:</h6>
-1) IN: power supply input (5V to 12V, 1A).
+1) IN: power supply input (5V to 12V, 1A).<br>
 2) RESET: resets and reboot the device.
 
 <h6>OUTPUT:</h6>
 1) CONFIG: is used for device configuration by a specialized person.
 
 <h6>LED's</h6>
-1) BLUE: indicate that the device its on.
-2) GREEN: indicate safe area.
-3) YELLOW: indicate alert (the gas level at the area is not recommended).
-4) ORANGE: indicate Danger (verification of the gas canister is needed)
-5) RED: indicate contaminated area (area evacuation is recomended).
+1) BLUE: indicate that the device its on.<br>
+2) GREEN: indicate safe area.<br>
+3) YELLOW: indicate alert (the gas level at the area is not recommended).<br>
+4) ORANGE: indicate Danger (verification of the gas canister is needed)<br>
+5) RED: indicate contaminated area (area evacuation is recomended).<br>
 
 <h6>ALERTS:</h6>
 1) ALARM:
