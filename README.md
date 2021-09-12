@@ -1,5 +1,5 @@
-# LPG_gasDetector
-<h3>Prototype of a LPG gas detector</h3>
+# LPG Arduino Gas Detector
+<h3>Prototype of a LPG gas detector with Arduino Uno and MQ-5 Gas Detector Sensor</h3>
 <br>
 
 <p align="center">
